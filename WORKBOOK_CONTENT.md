@@ -931,3 +931,4 @@ integration — resulting in a genuinely usable student productivity application
       Week 9: MongoDB Atlas connection with Mongoose and schemas
       Week 10: Full REST API with CRUD operations
       Week 11: Frontend-backend integration, app working end-to-end
+      Week 12: Final StudyFlow Planner submission
