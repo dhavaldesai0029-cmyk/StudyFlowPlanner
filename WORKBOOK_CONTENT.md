@@ -920,3 +920,4 @@ integration — resulting in a genuinely usable student productivity application
   accounts), email/browser notifications for upcoming study sessions, a more advanced analytics
   dashboard with charts, and deployment to a live hosting service (e.g., Vercel for the frontend,
   Render/Railway for the backend).
+
