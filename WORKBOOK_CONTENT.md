@@ -928,3 +928,4 @@ integration — resulting in a genuinely usable student productivity application
    Week 6: Global state management with useContext, useMemo and useCallback
       Week 7: Node.js backend setup, Axios integration and environment variables
       Week 8: Express server, routers and centralized error handling
+      Week 9: MongoDB Atlas connection with Mongoose and schemas
